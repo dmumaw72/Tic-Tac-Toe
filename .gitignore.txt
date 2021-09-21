@@ -393,3 +393,4 @@ FodyWeavers.xsd
 Tic Tac Toe/bin
 Tic Tac Toe/obj
 Tic Tac Toe.csproj
+bin/Debug/netcoreapp3.1
