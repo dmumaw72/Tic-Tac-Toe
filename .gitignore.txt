@@ -390,6 +390,6 @@ FodyWeavers.xsd
 
 #my own files to ignore
 .vs/
-tic tac toe/bin
-tic tac toe/obj
-tic tac toe.csproj
+Tic Tac Toe/bin
+Tic Tac Toe/obj
+Tic Tac Toe.csproj
